@@ -1,0 +1,15 @@
+﻿{
+	"forms": {
+		"Input": {
+			"timeStamp": "2020-05-26T12:59:08.830Z",
+			"destination": "detailScreen"
+		},
+		"Output": {
+			"timeStamp": "2020-05-26T12:59:08.861Z"
+		},
+		"PrintedList": {
+			"timeStamp": "2020-05-26T12:59:08.861Z",
+			"destination": "listPrinter"
+		}
+	}
+}

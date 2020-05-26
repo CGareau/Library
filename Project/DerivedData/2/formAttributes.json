@@ -1,0 +1,16 @@
+﻿{
+	"forms": {
+		"D_BorrowBook": {
+			"timeStamp": "2020-05-26T12:59:08.815Z",
+			"destination": "detailScreen"
+		},
+		"Input": {
+			"timeStamp": "2020-05-26T12:59:08.815Z",
+			"destination": "detailScreen"
+		},
+		"List": {
+			"timeStamp": "2020-05-26T12:59:08.815Z",
+			"destination": "detailScreen"
+		}
+	}
+}

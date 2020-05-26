@@ -1,0 +1,12 @@
+﻿{
+	"forms": {
+		"test": {
+			"timeStamp": "2020-05-26T12:59:08.761Z",
+			"destination": "detailScreen"
+		},
+		"WarningDialog": {
+			"timeStamp": "2020-05-26T12:59:08.761Z",
+			"destination": "detailScreen"
+		}
+	}
+}

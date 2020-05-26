@@ -1,0 +1,461 @@
+﻿{
+	"Sources/Methods/M_ManageStudents.4dm": {
+		"startSelection": 47,
+		"endSelection": 47,
+		"firstSelectedLine": 7,
+		"lastSelectedLine": 7,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.645Z"
+	},
+	"Sources/Methods/Tool_BuildBookPicture.4dm": {
+		"startSelection": 14,
+		"endSelection": 14,
+		"firstSelectedLine": 44,
+		"lastSelectedLine": 44,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.645Z"
+	},
+	"Sources/Methods/On_Open.4dm": {
+		"startSelection": 0,
+		"endSelection": 13,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 17,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.645Z"
+	},
+	"Sources/Methods/Tool_ImportSampleData.4dm": {
+		"startSelection": 18,
+		"endSelection": 18,
+		"firstSelectedLine": 16,
+		"lastSelectedLine": 16,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.645Z"
+	},
+	"Sources/Methods/BooksReOrder.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.645Z"
+	},
+	"Sources/Methods/StudentsReOrder.4dm": {
+		"startSelection": 20,
+		"endSelection": 42,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.661Z"
+	},
+	"Sources/Methods/M_Quit.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.661Z"
+	},
+	"Sources/Methods/BuildBookList.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.661Z"
+	},
+	"Sources/Methods/M_ManageBooks.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.677Z"
+	},
+	"Sources/Methods/BooksSetInterface.4dm": {
+		"startSelection": 17,
+		"endSelection": 17,
+		"firstSelectedLine": 63,
+		"lastSelectedLine": 63,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/Methods/BookSetStatus.4dm": {
+		"startSelection": 65,
+		"endSelection": 65,
+		"firstSelectedLine": 31,
+		"lastSelectedLine": 31,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/Methods/P_ManageBooks.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/Methods/P_ManageStudents.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/Methods/BookGotoHighLighted.4dm": {
+		"startSelection": 79,
+		"endSelection": 79,
+		"firstSelectedLine": 29,
+		"lastSelectedLine": 29,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/Methods/BooksExitEditMode.4dm": {
+		"startSelection": 15,
+		"endSelection": 15,
+		"firstSelectedLine": 10,
+		"lastSelectedLine": 10,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/Methods/Tool_ExportSampleData.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.683Z"
+	},
+	"Sources/DatabaseMethods/onStartup.4dm": {
+		"startSelection": 0,
+		"endSelection": 7,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.699Z"
+	},
+	"Sources/Triggers/table_1.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.699Z"
+	},
+	"Sources/Forms/WarningDialog/method.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.746Z"
+	},
+	"Sources/Forms/test/ObjectMethods/Bouton.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.761Z"
+	},
+	"Sources/TableForms/1/NewBook/method.4dm": {
+		"startSelection": 70,
+		"endSelection": 70,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.777Z"
+	},
+	"Sources/TableForms/1/NewBook/ObjectMethods/bValidate.4dm": {
+		"startSelection": 37,
+		"endSelection": 37,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.777Z"
+	},
+	"Sources/TableForms/1/InputOutput/method.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 24,
+		"lastSelectedLine": 24,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnAdd.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnDelete.4dm": {
+		"startSelection": 15,
+		"endSelection": 15,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnShowAll.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnPrint.4dm": {
+		"startSelection": 15,
+		"endSelection": 15,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnShowSubset.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/SearchPicker.4dm": {
+		"startSelection": 35,
+		"endSelection": 42,
+		"firstSelectedLine": 57,
+		"lastSelectedLine": 57,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.783Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/listBoxBooks.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.799Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/BtnEditSave.4dm": {
+		"startSelection": 0,
+		"endSelection": 17,
+		"firstSelectedLine": 17,
+		"lastSelectedLine": 17,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.799Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/BtnCancel.4dm": {
+		"startSelection": 35,
+		"endSelection": 35,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.799Z"
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/PhotoField.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.799Z"
+	},
+	"Sources/TableForms/2/D_BorrowBook/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 36,
+		"firstSelectedLine": 20,
+		"lastSelectedLine": 20,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.815Z"
+	},
+	"Sources/TableForms/2/D_BorrowBook/ObjectMethods/SearchZone.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.815Z"
+	},
+	"Sources/TableForms/2/D_BorrowBook/ObjectMethods/BookList.4dm": {
+		"startSelection": 11,
+		"endSelection": 11,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.815Z"
+	},
+	"Sources/TableForms/3/Input/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 11,
+		"lastSelectedLine": 11,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.830Z"
+	},
+	"Sources/TableForms/3/Input/ObjectMethods/listBoxLoans.4dm": {
+		"startSelection": 41,
+		"endSelection": 41,
+		"firstSelectedLine": 3,
+		"lastSelectedLine": 3,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.830Z"
+	},
+	"Sources/TableForms/3/Input/ObjectMethods/bDeleteLoan.4dm": {
+		"startSelection": 42,
+		"endSelection": 42,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.830Z"
+	},
+	"Sources/TableForms/3/Input/ObjectMethods/bAddLoan.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 22,
+		"lastSelectedLine": 22,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.830Z"
+	},
+	"Sources/TableForms/3/Output/method.4dm": {
+		"startSelection": 70,
+		"endSelection": 70,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.830Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnAdd.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 12,
+		"lastSelectedLine": 12,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.846Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnDelete.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.846Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnShowAll.4dm": {
+		"startSelection": 49,
+		"endSelection": 49,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.846Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnShowSubset.4dm": {
+		"startSelection": 43,
+		"endSelection": 43,
+		"firstSelectedLine": 5,
+		"lastSelectedLine": 5,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.846Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnQuery.4dm": {
+		"startSelection": 16,
+		"endSelection": 16,
+		"firstSelectedLine": 1,
+		"lastSelectedLine": 1,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.846Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnLabels.4dm": {
+		"startSelection": 15,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.861Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnPrint.4dm": {
+		"startSelection": 15,
+		"endSelection": 0,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.861Z"
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/listBoxStudents.4dm": {
+		"startSelection": 7,
+		"endSelection": 13,
+		"firstSelectedLine": 21,
+		"lastSelectedLine": 21,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.861Z"
+	},
+	"Sources/TableForms/3/PrintedList/ObjectMethods/vDate.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.861Z"
+	},
+	"Sources/TableForms/3/PrintedList/ObjectMethods/vPageNum_t.4dm": {
+		"startSelection": 45,
+		"endSelection": 45,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2020-05-26T12:59:08.861Z"
+	}
+}

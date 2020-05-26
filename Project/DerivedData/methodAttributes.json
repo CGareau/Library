@@ -1,0 +1,76 @@
+﻿{
+	"methods": {
+		"BookGotoHighLighted": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"BookSetStatus": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"BooksExitEditMode": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"BooksReOrder": {
+			"timeStamp": "2020-05-26T12:59:08.645Z"
+		},
+		"BooksSetInterface": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"BuildBookList": {
+			"timeStamp": "2020-05-26T12:59:08.661Z"
+		},
+		"Compiler_Arrays_Inter": {
+			"timeStamp": "2020-05-26T12:59:08.683Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Methods": {
+			"timeStamp": "2020-05-26T12:59:08.661Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Variables": {
+			"timeStamp": "2020-05-26T12:59:08.661Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"Compiler_Variables_Inter": {
+			"timeStamp": "2020-05-26T12:59:08.661Z",
+			"attributes": {
+				"invisible": true
+			}
+		},
+		"M_ManageBooks": {
+			"timeStamp": "2020-05-26T12:59:08.677Z"
+		},
+		"M_ManageStudents": {
+			"timeStamp": "2020-05-26T12:59:08.645Z"
+		},
+		"M_Quit": {
+			"timeStamp": "2020-05-26T12:59:08.661Z"
+		},
+		"On_Open": {
+			"timeStamp": "2020-05-26T12:59:08.645Z"
+		},
+		"P_ManageBooks": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"P_ManageStudents": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"StudentsReOrder": {
+			"timeStamp": "2020-05-26T12:59:08.661Z"
+		},
+		"Tool_BuildBookPicture": {
+			"timeStamp": "2020-05-26T12:59:08.645Z"
+		},
+		"Tool_ExportSampleData": {
+			"timeStamp": "2020-05-26T12:59:08.683Z"
+		},
+		"Tool_ImportSampleData": {
+			"timeStamp": "2020-05-26T12:59:08.645Z"
+		}
+	}
+}

@@ -1,0 +1,80 @@
+﻿{
+	"destination": "detailScreen",
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"markerHeader": 15,
+	"markerBody": 200,
+	"markerBreak": 220,
+	"markerFooter": 240,
+	"events": [
+		"onLoad",
+		"onValidate",
+		"onClick",
+		"onOutsideCall",
+		"onDoubleClick",
+		"onDrop",
+		"onMenuSelect",
+		"onPluginArea",
+		"onDataChange",
+		"onDragOver",
+		"onTimer",
+		"onAfterKeystroke",
+		"onAfterEdit",
+		"onBeginDragOver",
+		"onBoundVariableChange",
+		"onPageChange"
+	],
+	"pageFormat": {
+		"paperName": "Letter",
+		"paperWidth": "612pt",
+		"paperHeight": "792pt"
+	},
+	"pages": [
+		{
+			"objects": {
+				"Zone du plugin": {
+					"type": "plugin",
+					"top": 243,
+					"left": 16,
+					"width": 63,
+					"height": 29,
+					"pluginAreaKind": "%automate Area",
+					"events": [
+						"onPluginArea"
+					]
+				}
+			}
+		},
+		{
+			"objects": {
+				"cb1": {
+					"type": "dropdown",
+					"top": 23,
+					"left": 48,
+					"width": 203,
+					"height": 26,
+					"focusable": false,
+					"choiceList": {
+						"$ref": "/SOURCES/lists.json#/Grade"
+					},
+					"events": [
+						"onDataChange"
+					]
+				},
+				"Bouton": {
+					"type": "button",
+					"top": 118,
+					"left": 174,
+					"width": 181,
+					"height": 89,
+					"text": "Button",
+					"focusable": false,
+					"method": "ObjectMethods/Bouton.4dm",
+					"events": [
+						"onClick"
+					]
+				}
+			}
+		}
+	]
+}

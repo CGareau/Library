@@ -1,0 +1,17 @@
+﻿{
+	"Default Folder": {
+		"groups": [
+			"Forms",
+			"Project Methods",
+			"Tables"
+		]
+	},
+	"Forms": {},
+	"Project Methods": {},
+	"Tables": {
+		"tables": [
+			"Books"
+		]
+	},
+	"trash": {}
+}

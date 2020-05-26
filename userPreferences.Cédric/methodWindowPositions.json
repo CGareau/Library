@@ -1,0 +1,338 @@
+﻿{
+	"Sources/Methods/M_ManageStudents.4dm": {
+		"left": 5,
+		"top": 136,
+		"width": 685,
+		"height": 324
+	},
+	"Sources/Methods/Tool_BuildBookPicture.4dm": {
+		"left": 607,
+		"top": 268,
+		"width": 1196,
+		"height": 935
+	},
+	"Sources/Methods/On_Open.4dm": {
+		"left": 1065,
+		"top": 360,
+		"width": 1099,
+		"height": 731
+	},
+	"Sources/Methods/Tool_ImportSampleData.4dm": {
+		"left": 766,
+		"top": 275,
+		"width": 1196,
+		"height": 863
+	},
+	"Sources/Methods/BooksReOrder.4dm": {
+		"left": 500,
+		"top": 158,
+		"width": 1594,
+		"height": 1216
+	},
+	"Sources/Methods/StudentsReOrder.4dm": {
+		"left": 751,
+		"top": 226,
+		"width": 1196,
+		"height": 935
+	},
+	"Sources/Methods/Compiler_Variables_Inter.4dm": {
+		"left": 1108,
+		"top": 266,
+		"width": 1196,
+		"height": 887
+	},
+	"Sources/Methods/Compiler_Variables.4dm": {
+		"left": 7,
+		"top": 109,
+		"width": 380,
+		"height": 350
+	},
+	"Sources/Methods/Compiler_Methods.4dm": {
+		"left": 42,
+		"top": 122,
+		"width": 380,
+		"height": 350
+	},
+	"Sources/Methods/M_Quit.4dm": {
+		"left": 712,
+		"top": 415,
+		"width": 1196,
+		"height": 839
+	},
+	"Sources/Methods/BuildBookList.4dm": {
+		"left": 1049,
+		"top": 150,
+		"width": 1196,
+		"height": 1040
+	},
+	"Sources/Methods/M_ManageBooks.4dm": {
+		"left": 1049,
+		"top": 431,
+		"width": 1196,
+		"height": 741
+	},
+	"Sources/Methods/BooksSetInterface.4dm": {
+		"left": 1049,
+		"top": 405,
+		"width": 1196,
+		"height": 767
+	},
+	"Sources/Methods/BookSetStatus.4dm": {
+		"left": 1049,
+		"top": 405,
+		"width": 1196,
+		"height": 767
+	},
+	"Sources/Methods/P_ManageBooks.4dm": {
+		"left": 14,
+		"top": 114,
+		"width": 662,
+		"height": 350
+	},
+	"Sources/Methods/P_ManageStudents.4dm": {
+		"left": 14,
+		"top": 111,
+		"width": 724,
+		"height": 479
+	},
+	"Sources/Methods/BookGotoHighLighted.4dm": {
+		"left": 1049,
+		"top": 285,
+		"width": 1196,
+		"height": 887
+	},
+	"Sources/Methods/BooksExitEditMode.4dm": {
+		"left": 1301,
+		"top": 459,
+		"width": 1099,
+		"height": 733
+	},
+	"Sources/Methods/Tool_ExportSampleData.4dm": {
+		"left": 581,
+		"top": 230,
+		"width": 1196,
+		"height": 1064
+	},
+	"Sources/Methods/Compiler_Arrays_Inter.4dm": {
+		"left": 305,
+		"top": 491,
+		"width": 1172,
+		"height": 699
+	},
+	"Sources/DatabaseMethods/onStartup.4dm": {
+		"left": 482,
+		"top": 319,
+		"width": 1144,
+		"height": 689
+	},
+	"Sources/Triggers/table_1.4dm": {
+		"left": 85,
+		"top": 107,
+		"width": 593,
+		"height": 350
+	},
+	"Sources/Forms/WarningDialog/method.4dm": {
+		"left": 1301,
+		"top": 435,
+		"width": 720,
+		"height": 623
+	},
+	"Sources/Forms/test/ObjectMethods/Bouton.4dm": {
+		"left": 766,
+		"top": 294,
+		"width": 850,
+		"height": 564
+	},
+	"Sources/TableForms/1/NewBook/method.4dm": {
+		"left": 1049,
+		"top": 381,
+		"width": 1196,
+		"height": 791
+	},
+	"Sources/TableForms/1/NewBook/ObjectMethods/bValidate.4dm": {
+		"left": 607,
+		"top": 268,
+		"width": 1196,
+		"height": 935
+	},
+	"Sources/TableForms/1/PrintedList/ObjectMethods/vPageNum_t.4dm": {
+		"left": 629,
+		"top": 320,
+		"width": 629,
+		"height": 455
+	},
+	"Sources/TableForms/1/InputOutput/method.4dm": {
+		"left": 125,
+		"top": 179,
+		"width": 581,
+		"height": 523
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnAdd.4dm": {
+		"left": 229,
+		"top": 617,
+		"width": 1426,
+		"height": 748
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnDelete.4dm": {
+		"left": 1301,
+		"top": 459,
+		"width": 1099,
+		"height": 733
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnShowAll.4dm": {
+		"left": 1004,
+		"top": 131,
+		"width": 618,
+		"height": 350
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnPrint.4dm": {
+		"left": 1301,
+		"top": 459,
+		"width": 1099,
+		"height": 733
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/btnShowSubset.4dm": {
+		"left": 664,
+		"top": 123,
+		"width": 585,
+		"height": 350
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/SearchPicker.4dm": {
+		"left": 659,
+		"top": 404,
+		"width": 951,
+		"height": 810
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/listBoxBooks.4dm": {
+		"left": 1049,
+		"top": 309,
+		"width": 1196,
+		"height": 863
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/BtnEditSave.4dm": {
+		"left": 1049,
+		"top": 309,
+		"width": 1196,
+		"height": 863
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/BtnCancel.4dm": {
+		"left": 154,
+		"top": 167,
+		"width": 1426,
+		"height": 772
+	},
+	"Sources/TableForms/1/InputOutput/ObjectMethods/PhotoField.4dm": {
+		"left": 1128,
+		"top": 141,
+		"width": 1037,
+		"height": 818
+	},
+	"Sources/TableForms/2/D_BorrowBook/method.4dm": {
+		"left": 1357,
+		"top": 233,
+		"width": 740,
+		"height": 1031
+	},
+	"Sources/TableForms/2/D_BorrowBook/ObjectMethods/SearchZone.4dm": {
+		"left": 793,
+		"top": 182,
+		"width": 850,
+		"height": 748
+	},
+	"Sources/TableForms/2/D_BorrowBook/ObjectMethods/BookList.4dm": {
+		"left": 1049,
+		"top": 102,
+		"width": 1196,
+		"height": 1088
+	},
+	"Sources/TableForms/3/Input/method.4dm": {
+		"left": 1103,
+		"top": 229,
+		"width": 1196,
+		"height": 959
+	},
+	"Sources/TableForms/3/Input/ObjectMethods/listBoxLoans.4dm": {
+		"left": 1103,
+		"top": 229,
+		"width": 1196,
+		"height": 959
+	},
+	"Sources/TableForms/3/Input/ObjectMethods/bDeleteLoan.4dm": {
+		"left": 1103,
+		"top": 229,
+		"width": 1196,
+		"height": 959
+	},
+	"Sources/TableForms/3/Input/ObjectMethods/bAddLoan.4dm": {
+		"left": 751,
+		"top": 250,
+		"width": 1196,
+		"height": 911
+	},
+	"Sources/TableForms/3/Output/method.4dm": {
+		"left": 860,
+		"top": 214,
+		"width": 1196,
+		"height": 959
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnAdd.4dm": {
+		"left": 1108,
+		"top": 266,
+		"width": 1196,
+		"height": 887
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnDelete.4dm": {
+		"left": 1301,
+		"top": 459,
+		"width": 1099,
+		"height": 733
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnShowAll.4dm": {
+		"left": 1108,
+		"top": 266,
+		"width": 1196,
+		"height": 887
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnShowSubset.4dm": {
+		"left": 1108,
+		"top": 266,
+		"width": 1196,
+		"height": 887
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnQuery.4dm": {
+		"left": 1108,
+		"top": 266,
+		"width": 1196,
+		"height": 887
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnLabels.4dm": {
+		"left": 1301,
+		"top": 459,
+		"width": 1099,
+		"height": 733
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/btnPrint.4dm": {
+		"left": 1301,
+		"top": 459,
+		"width": 1099,
+		"height": 733
+	},
+	"Sources/TableForms/3/Output/ObjectMethods/listBoxStudents.4dm": {
+		"left": 160,
+		"top": 308,
+		"width": 1196,
+		"height": 863
+	},
+	"Sources/TableForms/3/PrintedList/ObjectMethods/vDate.4dm": {
+		"left": 1348,
+		"top": 516,
+		"width": 1144,
+		"height": 715
+	},
+	"Sources/TableForms/3/PrintedList/ObjectMethods/vPageNum_t.4dm": {
+		"left": 277,
+		"top": 223,
+		"width": 494,
+		"height": 350
+	}
+}

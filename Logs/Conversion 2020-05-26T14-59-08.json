@@ -1,0 +1,33 @@
+﻿{
+	"messages": [
+		{
+			"message": "Compatibility setting 'Use new architecture for application deployments' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Use date type instead of ISO date format in objects' switched on.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Do not use new context referencing mode' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Web automatic variable assignment' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting 'Web remove / on unknown URLs' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting for Remote 'Web automatic variable assignment' switched off.",
+			"severity": "warning"
+		},
+		{
+			"message": "Compatibility setting for Remote 'Web remove / on unknown URLs' switched off.",
+			"severity": "warning"
+		}
+	],
+	"success": true
+}
